@@ -4,5 +4,5 @@ Descrição: Crie poções exclusivas através desse magnifico plugin. Pots c/ F
 
 Comandos de exemplo:
 
-EX: /PotionMasterPlugin reload
-Ex: /pot SPEED:1:30s  INCREASE_DAMAGE:2:10m REGENERATION:0:20m
+- EX: /PotionMasterPlugin reload
+- Ex: /pot SPEED:1:30s  INCREASE_DAMAGE:2:10m REGENERATION:0:20m
