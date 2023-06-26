@@ -1,0 +1,15 @@
+name: PotionMasterPlugin
+version: 1.0.0
+main: org.potionmasterplugin.PotionMasterPlugin
+description: Um plugin para criar poções personalizadas no Minecraft
+author: Mrgamer200
+commands:
+  PotionMasterPlugin:
+    description: Comando principal do PotionMasterPlugin
+    usage: /PotionMasterPlugin reload
+    permission: potionmaster.reload
+    aliases: [pmp]
+  pot:
+    description: Cria uma poção personalizada
+    usage: /pot <efeito principal:amplificador> <efeito1:amplificador> [efeito2:amplificador] ... <tempo em minutos>
+    permission: potionmaster.use

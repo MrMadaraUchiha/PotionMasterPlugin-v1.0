@@ -1,0 +1,10 @@
+# Configurações do PotionMasterPlugin
+mensagem-permissao: "&cVocê não tem permissão para usar esse comando."
+
+
+# Configurações do comando /pot
+comando-pot:
+  uso-correto: "&cUso correto: /pot <efeito1:amplificador> [efeito2:amplificador] ... <tempo em minutos>"
+  recarregar:
+    permissao: "potionmaster.reload"
+    mensagem-sucesso: "&aO plugin PotionMasterPlugin foi recarregado."
