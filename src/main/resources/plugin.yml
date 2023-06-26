@@ -2,7 +2,7 @@ name: PotionMasterPlugin
 version: 1.0.0
 main: org.potionmasterplugin.PotionMasterPlugin
 description: Um plugin para criar poções personalizadas no Minecraft
-author: Mrgamer200
+author: Mrgamer200 & MrMadaraUchiha
 commands:
   PotionMasterPlugin:
     description: Comando principal do PotionMasterPlugin
