@@ -34,9 +34,9 @@ public class PotionMasterPlugin extends JavaPlugin implements Listener {
 
     @Override
     public void onEnable() {
-        getLogger().info("PotionMasterPlugin ativado!");
-        getLogger().info("Criado por: Mrgamer200");
-        getLogger().info("Nome do plugin: PotionMasterPlugin");
+        getLogger().info("PotionMasterPlugin está ativado e funcionando!");
+        getLogger().info("Criado por: Mrgamer200 & MrMadaraUchiha");
+        getLogger().info("Nome do plugin: PotionMasterPlugin v1.0");
         getLogger().info("Obrigado por usar o meu plugin!");
 
         // Carregar a configuração
@@ -51,7 +51,7 @@ public class PotionMasterPlugin extends JavaPlugin implements Listener {
 
     @Override
     public void onDisable() {
-        getLogger().info("PotionMasterPlugin desativado!");
+        getLogger().info("PotionMasterPlugin está desativado!");
     }
 
     @Override
