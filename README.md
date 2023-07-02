@@ -4,7 +4,7 @@
 
 ## Descrição
 
-O PotionMasterPlugin é um plugin para o servidor de Minecraft que permite aos jogadores criar poções personalizadas com efeitos específicos. Com este plugin, os jogadores podem criar poções poderosas com amplificadores, durações e tipos de efeitos personalizados.
+O PotionMasterPlugin é um plugin para os servidores de Minecraft que permite aos jogadores criar poções personalizadas com efeitos específicos. Com este plugin, os jogadores podem criar poções poderosas com amplificadores, durações e tipos de efeitos personalizados.
 
 ## Recursos
 
