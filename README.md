@@ -1,6 +1,6 @@
 # PotionMasterPlugin-v1.0
 
-![PotionMasterPlugin]([potionmaster.png])
+![PotionMasterPlugin](./potionmaster.png)
 
 ## Descrição
 
