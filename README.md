@@ -1,6 +1,6 @@
 # PotionMasterPlugin-v1.0
 
-![PotionMasterPlugin]([pnghttps://e7.pngegg.com/pngimages/95/976/png-clipart-potion-complex-miscellaneous-purple.png])
+![PotionMasterPlugin]([potionmaster.png])
 
 ## Descrição
 
