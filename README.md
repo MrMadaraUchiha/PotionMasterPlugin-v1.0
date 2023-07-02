@@ -47,5 +47,5 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 Para mais informações ou dúvidas sobre o PotionMasterPlugin, entre em contato:
 
-- E-mail: [Seu_email]
-- Discord: [Seu_discord]
+- E-mail: [thales667@hotmail.com]
+- Discord: [mrmadara667]
