@@ -48,4 +48,3 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 Para mais informações ou dúvidas sobre o PotionMasterPlugin, entre em contato:
 
 - Discord: [mrmadara667]
-- Discord: [mrgamer2004#4706]
