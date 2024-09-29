@@ -14,7 +14,7 @@ O PotionMasterPlugin é um plugin para servidores de Minecraft que deseja permit
 
 ## Pré-requisitos
 
-- Servidor de Minecraft (Spigot, Paper, etc.).
+- Servidor de Minecraft 1.8+ (Spigot, Paper, etc.).
 - Java 8 ou superior.
 
 ## Instalação
